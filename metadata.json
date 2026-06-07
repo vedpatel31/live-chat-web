@@ -1,0 +1,6 @@
+{
+  "name": "DevTalk",
+  "description": "A modern real-time communication platform for developers to discuss programming, share code snippets, and collaborate.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
